@@ -15,3 +15,5 @@ I'm Victor, a postdoctoral researcher in the [Dynamic Macroecology Group](https:
 - 🕸️ Eco-evolutionary models, and in particular models structured over graphs, with e.g. `EvoID.jl` and ` EcoEvoModelZoo.jl`.
 
 Check out my [website](https://vboussange.github.io) to know more.
+
+[![vboussange's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboussange)](https://github.com/anuraghazra/github-readme-stats)
