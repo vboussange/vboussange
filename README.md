@@ -8,7 +8,7 @@ I'm Victor, a postdoctoral researcher in the [Dynamic Macroecology Group](https:
 ## 🔭 I’m currently working on
 
 - 🦌`JAXScape`, a differentiable connectivity analysis library, developed within the framework of the [SPEED2ZERO](https://speed2zero.ethz.ch/en/) project. `JAXScape` is currently used to identify important sites to sustain ecological connectivity in Switzerland, see [here](https://github.com/vboussange/CH_connectivity_analysis) and the [Swiss SolarWind Explorer](https://swiss-solarwind-explorer-v1.ethz.ch) for an interactive visualisation.
-- 📈`HybridDynamicModelling.jl`, a Lux.jl-based library for hybrid dynamical modeling combining domain knowledge with machine learning.
+- 📈`HybridDynamicModels.jl`, a Lux.jl-based library for hybrid dynamical modeling combining domain knowledge with machine learning.
 
 ## 🕣 In the past, I have worked on 
 - $\partial x$ `HighDimPDE.jl`, a deep learning-based solver for highly dimensional, non-local, nonlinear PDEs. The repo now belongs to the [SciML ecosystem](https://sciml.ai).
